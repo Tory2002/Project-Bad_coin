@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bad_coin</string>
+    <string name="usl">Имеется 10 золотых монет, среди них одна фальшивая. Фальшивая может
+быть тяжелее или легче настоящей. Используя чашечные весы (бес гирь)
+необходимо найти фальшивую монету используя минимальное количество
+    взвешиваний.</string>
+    <string name="count_vzv">Количество взвешиваний: </string>
+    <string name="New_btn">Начать игру сначала</string>
+    <string name="weigh1">Взвесить</string>
+
+</resources>
